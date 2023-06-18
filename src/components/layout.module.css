@@ -1,0 +1,26 @@
+.container {
+    margin: auto;
+    max-width: 500px;
+    font-family: sans-serif;
+}
+
+.heading {
+    font-size: 2rem;
+    color: plum;
+    font-weight: bold;
+}
+
+.nav {
+    display: flex;
+    list-style: none;
+}
+
+.lien {
+    text-decoration: none;
+    padding-right: 2rem;
+    color: black;
+}
+
+.lien:hover {
+    color: red;
+}
